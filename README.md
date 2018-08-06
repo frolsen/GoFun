@@ -1,0 +1,2 @@
+# GoFun
+HelloWorld for GO
